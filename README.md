@@ -1,1 +1,1 @@
-# Preview link: [view-transition-demo](https://view-transition-demo.netlify.app/)
+# Preview link: [bejamas-view-transition-demo](https://bejamas-view-transition-demo.netlify.app/)
