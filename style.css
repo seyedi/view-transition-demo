@@ -222,8 +222,13 @@ img {
   max-width: 100%;
 }
 
-header {
+header,
+footer {
   padding: 2.325rem 1.0333rem;  
+}
+
+footer {
+  color: var(--color-text-2);
 }
 
 header .container {
