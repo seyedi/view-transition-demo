@@ -1,1 +1,1 @@
-# Preview link: [view-transition-demo-slideup](https://view-transition-demo-slideup.netlify.app/)
+# Preview link: [view-transition-demo](https://view-transition-demo.netlify.app/)
