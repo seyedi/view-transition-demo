@@ -1,1 +1,1 @@
-# Preview link: [view-transition-demo-crossfade](https://view-transition-demo-crossfade.netlify.app/)
+# Preview link: [view-transition-demo-slideup](https://view-transition-demo-slideup.netlify.app/)
