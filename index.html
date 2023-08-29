@@ -89,5 +89,12 @@
       <p>© Bejamas.io - All rights reserved.</p>
     </div>
   </footer>
+  <script>
+    document.addEventListener('click', function (event) {
+      if (!event.target.closest('.testimonials a')) return;
+      let target = event.target.closest('.testimonials a');
+      target.querySelector('img').style.viewTransitionName = "thumbnail";           
+    });
+  </script>  
 </body>
 </html>
